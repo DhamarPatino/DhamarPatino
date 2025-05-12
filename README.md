@@ -1,20 +1,5 @@
 ## Hi there 👋
 
-<!--
-**DhamarPatino/DhamarPatino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Mi sitio personal
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos y mis intereses.
@@ -23,11 +8,14 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
-* Sitio web: [Tu sitio web]
+* Nombre: Dhamar Patiño
+* Ocupación: Estudiante
+* Lugar de residencia: Guayaquil
+* Sitio web: -
 ## Proyectos
-* [Lista de tus proyectos]
+### ### 🔗 [Juego de adivinanza ](https://github.com/DhamarPatino/ED_P2_GRUPO03)
+📌 La aplicacion consiste que la maquina debe adivinar.  
+🚀 Tecnologías: React, Node.js, MongoDB
+* Domino
 ## Intereses
-* [Lista de tus intereses]
+* Ser desarrolladora web
