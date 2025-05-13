@@ -9,22 +9,30 @@
 ## Información personal
 * Nombre: Dhamar Patiño
 * Ocupación: Estudiante de Ingeniería en Computación en ESPOL
-* Lugar de residencia: Guayaquil, Ecaudor
+* Lugar de residencia: Guayaquil, Ecuador
 * Sitio web: *(próximamente)*
+
 ## Proyectos
 ### 🔍 [Juego de Adivinanza](https://github.com/DhamarPatino/ED_P2_GRUPO03)
 📌 Juego interactivo donde la computadora intenta adivinar el animal en el que piensa el usuario, utilizando un árbol de decisión binario.  
-🚀 **Tecnologías:** Java, estructuras de datos, lógica de decisión  
+🚀 **Tecnologías utilizadas:**
+- **Java**: Utilizado para la programación del árbol binario, el flujo lógico de las preguntas, y la lógica de búsqueda y comparación de respuestas del usuario.
+- **JavaFX**: Empleado para el diseño de la interfaz gráfica, donde el usuario interactúa con botones y cuadros de texto para responder las preguntas. 
 📁 **Colaborativo / Proyecto académico**
 
 ### 🧾 [Base de Datos "Rey Morocho"](https://github.com/raydan90s/PROYECTOBASEDEDATOS.git)
 📌 Sistema de inventario para gestionar productos y mercancía de un local comercial. Incluye gestión CRUD y consultas SQL.  
-🚀 **Tecnologías:** Java, PostgreSQL  
+🚀 **Tecnologías utilizadas:**
+- **Java**: Para construir la lógica de la aplicación, incluyendo el manejo de eventos, las validaciones y la interacción con la base de datos.
+- **SQL (PostgreSQL)**: Utilizado para el diseño y manejo de la base de datos, permitiendo almacenar la información de productos, stock, proveedores y movimientos.
+- **JDBC**: Para establecer la conexión entre Java y la base de datos y realizar operaciones CRUD (crear, leer, actualizar, eliminar).
 📁 **Colaborativo / Proyecto académico**
 
 ### 📦 [Compresión y Descompresión de Archivos con Huffman](https://github.com/Josemiu/DiscretasProyecto.git)
 📌 Aplicación que permite comprimir y descomprimir archivos (PDF, JPG, PNG, WAV) mediante el algoritmo de Huffman.  
-🚀 **Tecnologías:** Java, algoritmos de compresión, estructuras de datos  
+🚀 **Tecnologías utilizadas:**
+- **Java**: Para implementar el algoritmo de Huffman, la manipulación de bits, árboles binarios y el manejo de archivos.
+- **Estructuras de datos**: Se utilizaron colas de prioridad y árboles binarios para la codificación y decodificación eficiente de la información.  
 📁 **Colaborativo / Proyecto académico**
 
   
