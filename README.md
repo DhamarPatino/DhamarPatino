@@ -1,24 +1,38 @@
 ## Hi there 👋
 
 # Mi sitio personal
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
-proyectos y mis intereses.
+¡Bienvenido/a a mi espacio en GitHub! Aquí encontrarás información sobre mí, mis proyectos académicos y mis áreas de interés en el mundo de la computación.
 ## Contenido
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
 * Nombre: Dhamar Patiño
-* Ocupación: Estudiante
-* Lugar de residencia: Guayaquil
-* Sitio web: -
+* Ocupación: Estudiante de Ingeniería en Computación en ESPOL
+* Lugar de residencia: Guayaquil, Ecaudor
+* Sitio web: *(próximamente)*
 ## Proyectos
-### ### 🔗 [Juego de adivinanza ](https://github.com/DhamarPatino/ED_P2_GRUPO03)
-📌 La aplicacion consiste que la maquina debe adivinar.  
-🚀 Tecnologías: Java
-* Domino
+### 🔍 [Juego de Adivinanza](https://github.com/DhamarPatino/ED_P2_GRUPO03)
+📌 Juego interactivo donde la computadora intenta adivinar el animal en el que piensa el usuario, utilizando un árbol de decisión binario.  
+🚀 **Tecnologías:** Java, estructuras de datos, lógica de decisión  
+📁 **Colaborativo / Proyecto académico**
+
+### 🧾 [Base de Datos "Rey Morocho"](https://github.com/raydan90s/PROYECTOBASEDEDATOS.git)
+📌 Sistema de inventario para gestionar productos y mercancía de un local comercial. Incluye gestión CRUD y consultas SQL.  
+🚀 **Tecnologías:** Java, PostgreSQL  
+📁 **Colaborativo / Proyecto académico**
+
+### 📦 [Compresión y Descompresión de Archivos con Huffman](https://github.com/Josemiu/DiscretasProyecto.git)
+📌 Aplicación que permite comprimir y descomprimir archivos (PDF, JPG, PNG, WAV) mediante el algoritmo de Huffman.  
+🚀 **Tecnologías:** Java, algoritmos de compresión, estructuras de datos  
+📁 **Colaborativo / Proyecto académico**
+
+  
 ## Intereses
-* Ser desarrolladora web
+* Desarrollo web frontend
+* Diseño de interfaces accesibles y usables
+* Inteligencia Artificial aplicada a la educación
+* Bases de datos y análisis de datos
 
 ## 🧰 Tecnologías y herramientas
 
