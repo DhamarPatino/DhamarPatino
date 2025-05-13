@@ -24,8 +24,9 @@
 📌 Sistema de inventario para gestionar productos y mercancía de un local comercial. Incluye gestión CRUD y consultas SQL.  
 🚀 **Tecnologías utilizadas:**
 - **Java**: Para construir la lógica de la aplicación, incluyendo el manejo de eventos, las validaciones y la interacción con la base de datos.
-- **SQL (PostgreSQL)**: Utilizado para el diseño y manejo de la base de datos, permitiendo almacenar la información de productos, stock, proveedores y movimientos.
+- **SQL (MySQL)**: Utilizado para el diseño y manejo de la base de datos, permitiendo almacenar la información de productos, stock, proveedores y movimientos.
 - **JDBC**: Para establecer la conexión entre Java y la base de datos y realizar operaciones CRUD (crear, leer, actualizar, eliminar).
+-  **Clever Cloud**: Implementación de la base de datos MySQL en la nube para manejar el almacenamiento de los datos de manera escalable y accesible desde cualquier lugar.
 📁 **Colaborativo / Proyecto académico**
 
 ### 📦 [Compresión y Descompresión de Archivos con Huffman](https://github.com/Josemiu/DiscretasProyecto.git)
